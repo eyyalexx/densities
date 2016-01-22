@@ -1,4 +1,4 @@
-/*Source: A1.c
+/*Source: densities.c
   Purpose: Used to calculate the densities over given years 
   Input: the amount of years to be calculated as-well as the name of the file with densities
   Output: yearly calculations of densities until steady rate.
